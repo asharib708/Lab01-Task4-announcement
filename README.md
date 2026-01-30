@@ -1,11 +1,11 @@
 # Lab01-Task4-announcement
 # 📢 MySQL Workbench Setup & Submission
 
-You are **required to submit a screenshot** showing that you have successfully installed **MySQL Workbench**.  
+You are **required to submit (upload and commit) a screenshot** showing that you have successfully installed **MySQL Workbench**.  
 
 We understand that setting up MySQL Workbench for the first time can be challenging, so we have extended the deadline to:
 
-**🗓 Monday, February 2**  
+**🗓 Monday, February 2 11:59 pm**  
 
 This should give you enough time to resolve any setup issues.  
 
