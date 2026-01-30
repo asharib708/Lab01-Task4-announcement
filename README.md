@@ -1,7 +1,7 @@
 # Lab01-Task4-announcement
 # 📢 MySQL Workbench Setup & Submission
 
-You are **required to submit (upload and commit) a screenshot** showing that you have successfully installed **MySQL Workbench**.  
+You are **required to submit (upload and commit) a screenshot** showing that you have successfully installed **MySQL Workbench**. Do rename the screenshot with you rollnumber. 
 
 We understand that setting up MySQL Workbench for the first time can be challenging, so we have extended the deadline to:
 
